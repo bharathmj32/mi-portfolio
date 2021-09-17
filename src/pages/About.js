@@ -91,8 +91,8 @@ export default function About() {
                   and technical subjects which i'm interested more are DSA, OOPS, DBMS, UP, Cloud, AI and ML, 
                   etc.
                   <br /> <br />
-                  I started developing websites and apps from my 3rd year of eengineering and i have always 
-                  did my works with great zeal. I have also participated in hackathons concerning to the same.
+                  I started developing websites and apps from my 3rd year of eengineering and i always 
+                  do my works with great zeal. I have also participated in hackathons and won awards in few.
                   Currently i'm working on improving myself more towards Data Science by doing the online courses and 
                   reading blogs.
                   <br />
